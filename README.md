@@ -1,7 +1,11 @@
 
-# This is the Demo link: https://tinda-clone-e4536.web.app/
+# This is the Demo link:
+https://tinda-clone-e4536.web.app/
 
-the server side is hosted on heroku.com
+the server side is hosted on heroku.com 
+
+# Server side :
+https://github.com/Krahost/tinda-backend
 
 # Getting Started with Create React App
 
